@@ -1,0 +1,41 @@
+{
+	"applications": [
+        "app",
+        "exe"
+	],
+    "archives": [
+        "zip",
+        "dmg",
+        "sit",
+        "7z"
+    ],
+	"audio": [
+        "aif",
+        "aiff",
+        "aax",
+        "wav",
+        "mp3",
+        "m4a",
+        "flac"
+	],
+	"documents": [
+        "pdf",
+        "doc",
+        "docx",
+        "rtf",
+        "xls",
+        "csv"
+	],
+    "images": [
+        "jpg",
+        "gif",
+        "png"
+    ],
+	"video": [
+        "m4v",
+        "mp4",
+        "mpg",
+        "avi",
+        "mov"
+	]
+}
