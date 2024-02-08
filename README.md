@@ -1,2 +1,2 @@
 # filer
-A Node.js based file organizer for your Downloads folder.
+File organizer scripts for your Downloads folder.
